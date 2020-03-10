@@ -12,5 +12,8 @@ davdata math
 
 http://www.davdata.nl/math/index.html
 
+porter-duff
+
+https://www.ibm.com/developerworks/java/library/j-mer0918/
 
 
