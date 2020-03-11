@@ -16,4 +16,10 @@ porter-duff
 
 https://www.ibm.com/developerworks/java/library/j-mer0918/
 
+bilinear inpterpolation
 
+https://theailearner.com/2018/12/29/image-processing-bilinear-interpolation/
+
+math interpolation
+
+https://www.mathworks.com/help/vision/ug/interpolation-methods.html
