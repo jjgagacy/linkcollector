@@ -32,4 +32,7 @@ manjaro key remap
 
 https://askubuntu.com/questions/137172/how-to-remap-superleft-key-to-control-key
 
+https://unix.stackexchange.com/questions/202930/xmodmap-clear-modifier-not-working
+
+
 
