@@ -34,5 +34,14 @@ https://askubuntu.com/questions/137172/how-to-remap-superleft-key-to-control-key
 
 https://unix.stackexchange.com/questions/202930/xmodmap-clear-modifier-not-working
 
+manjaro install wechat, tim
+
+yay -S deepin-wine-wechat
+
+yay -S deepin-wine-tim
+
+yay -S deepin-wine-qq
+
+
 
 
