@@ -42,6 +42,16 @@ yay -S deepin-wine-tim
 
 yay -S deepin-wine-qq
 
+manjaro compiz 窗口管理器
+
+https://baijiahao.baidu.com/s?id=1623162597107042682&wfr=spider&for=pc
+
+https://wiki.manjaro.org/index.php?title=Install_Desktop_Environments#Optional:_Install_and_use_LightDM.2C_the_recommended_display_manager_for_XFCE
+
+
+
+
+
 
 
 
